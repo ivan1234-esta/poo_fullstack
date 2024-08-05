@@ -1,14 +1,14 @@
 {
   "dependencies": {
-    "moment": "^2.30.1",
+    "prompt": "^1.3.0",
     "prompt-sync": "^4.2.0"
   },
-  "name": "projetostream",
+  "name": "poo_projeto",
   "version": "1.0.0",
   "type": "module",
-  "main": "EntradaSaida.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
-
 }
+
